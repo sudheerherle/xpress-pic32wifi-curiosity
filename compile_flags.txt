@@ -1,0 +1,8 @@
+-Wno-main-return-type
+-I/opt/microchip/xc32/v3.01/lib/gcc/pic32mx/8.3.1/include
+-I/opt/microchip/xc32/v3.01/lib/gcc/pic32mx/8.3.1/include-fixed
+-I/opt/microchip/xc32/v3.01/pic32mx/include
+-I/opt/microchip/xc32/v3.01/pic32mx/include/lega-c
+-D__LANGUAGE_C__
+-D__LANGUAGE_C_PLUS_PLUS
+-D__32MZ1025W104132__
